@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidman021
-- 👀 I’m interested in Java and Wed designing
+- 👀 I’m interested in Java and Web designing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java and web designing
 - 📫 How to reach me
