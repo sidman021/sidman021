@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidman021
-- 👀 I’m interested in Java and Web designing
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java and web designing
+- 👀 I’m interested in Web designing
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on web designing
 - 📫 How to reach me
 
 <!---
